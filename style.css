@@ -1,0 +1,27 @@
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+}
+
+.sign {
+    position: fixed;
+    top: 0;
+    right: 40px;
+    width: 80px;
+    height: 100vh;
+    background-color: #ffd322;
+}
+.artist_note {
+    font-size: 60px;
+    color: #333;
+    padding: 10px;
+}
+
+.caption {
+    position: static;
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+    color: #333;
+    max-width: 350px;
+    margin-top: 0;
+}
